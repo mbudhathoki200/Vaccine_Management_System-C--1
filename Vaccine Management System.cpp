@@ -65,7 +65,7 @@ void Vaccine::setData()//1
         cout<<"\n\t\t Enter your Mobile number :- ";
         gets(mobileNumber);
 }
-//------------------------------------------------------
+//-------------------------------------------------------
 void Vaccine::addNew()//2
 {
     fstream outin;
